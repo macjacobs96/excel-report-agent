@@ -1,0 +1,108 @@
+{
+  "test_version": [
+    {
+      "sheet": "封面Cover",
+      "cell": "J4"
+    },
+    {
+      "sheet": "封面Cover",
+      "cell": "J5"
+    }
+  ],
+  "author_name": [
+    {
+      "sheet": "封面Cover",
+      "cell": "F18"
+    }
+  ],
+  "reviewer_name": [
+    {
+      "sheet": "封面Cover",
+      "cell": "F19"
+    }
+  ],
+  "approver_name": [
+    {
+      "sheet": "封面Cover",
+      "cell": "F20"
+    }
+  ],
+  "test_software_version": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C12"
+    }
+  ],
+  "dre_name": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C9"
+    }
+  ],
+  "tester_name": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C14"
+    }
+  ],
+  "test_start_date": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C17"
+    }
+  ],
+  "test_end_date": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C18"
+    }
+  ],
+  "project_name": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C6"
+    }
+  ],
+  "dut_name": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C7"
+    }
+  ],
+  "dut_config": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C8"
+    }
+  ],
+  "test_device": [
+    {
+      "sheet": "测试信息Test Info",
+      "cell": "C20"
+    }
+  ],
+  "test_summary_header": [
+    {
+      "sheet": "测试总结Summary",
+      "cell": "B10"
+    }
+  ],
+  "jira_clear": [
+    {
+      "sheet": "测试总结Summary",
+      "cell": "C10"
+    }
+  ],
+  "test_conclusion_text": [
+    {
+      "sheet": "测试总结Summary",
+      "cell": "C7"
+    }
+  ],
+  "bug_summary_text": [
+    {
+      "sheet": "测试总结Summary",
+      "cell": "C8"
+    }
+  ]
+}

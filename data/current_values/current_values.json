@@ -1,0 +1,19 @@
+{
+  "test_version": "ER111.111.11",
+  "test_software_version": "ER111.111.11",
+  "author_name": "孙傲禹/2077-09-01",
+  "reviewer_name": "xxx/2077-09-01",
+  "approver_name": "孙傲禹/2077-09-01",
+  "tester_name": "哈比比",
+  "dre_name": "孙傲禹",
+  "test_date": "2077-09-01",
+  "test_start_date": "2088-09-22",
+  "test_end_date": "2099-01-02",
+  "project_name": "E0V",
+  "dut_name": "视觉，APP",
+  "dut_config": "车机",
+  "test_device": "台架线刷",
+  "test_conclusion_text": "当前版本无A类问题遗留，B类问题0单，C类问题0单；",
+  "bug_summary_text": "目前共计遗留0个Bug，A类遗留:0，B+类遗留:0个，B类遗留:0个，C类遗留:0个；严重问题：无",
+  "jira_clear": ""
+}

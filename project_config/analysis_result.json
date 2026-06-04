@@ -1,0 +1,1056 @@
+{
+  "variables": {
+    "cover_info": {
+      "cells": [
+        {
+          "sheet": "封面Cover",
+          "cell": "F18"
+        },
+        {
+          "sheet": "封面Cover",
+          "cell": "F19"
+        },
+        {
+          "sheet": "封面Cover",
+          "cell": "F20"
+        },
+        {
+          "sheet": "封面Cover",
+          "cell": "J4"
+        }
+      ],
+      "sample_values": [
+        "田佳浩/2026-03-07",
+        "田佳昊/2026-04-03",
+        "田佳昊/2026-05-23",
+        "田佳昊/2026-03-30",
+        "田佳昊/2026-05-03"
+      ],
+      "field_type": "cover_info",
+      "confidence": 0.4
+    },
+    "test_software_version": {
+      "cells": [
+        {
+          "sheet": "封面Cover",
+          "cell": "J5"
+        },
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C12"
+        }
+      ],
+      "sample_values": [
+        "V1.4.2",
+        "ER9.1.07",
+        "ER9.1.02.E0V8397.262142",
+        "V9.0.01",
+        "V8.1.36"
+      ],
+      "field_type": "test_software_version",
+      "confidence": 0.9
+    },
+    "tester_name": {
+      "cells": [
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C14"
+        },
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C9"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C6"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C42"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D42"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "E39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "E40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "E41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L10"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L11"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L12"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L13"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L23"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "L41"
+        }
+      ],
+      "sample_values": [
+        "许冰雪/田佳昊",
+        "李瑞鹏/龙航",
+        "龙航/田佳昊"
+      ],
+      "field_type": "tester_name",
+      "confidence": 0.7
+    },
+    "test_date": {
+      "cells": [
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C17"
+        },
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C18"
+        }
+      ],
+      "sample_values": [
+        "2026-04-03 00:00:00",
+        "2026-03-26 00:00:00",
+        "2026-03-07 00:00:00",
+        "2026-05-16 00:00:00",
+        "2026-05-03 00:00:00"
+      ],
+      "field_type": "test_date",
+      "confidence": 0.85
+    },
+    "unknown": {
+      "cells": [
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C20"
+        },
+        {
+          "sheet": "测试信息Test Info",
+          "cell": "C7"
+        }
+      ],
+      "sample_values": [
+        "台架",
+        "台架线刷"
+      ],
+      "field_type": "unknown",
+      "confidence": 0.0
+    },
+    "test_conclusion": {
+      "cells": [
+        {
+          "sheet": "测试总结Summary",
+          "cell": "B10"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C10"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C14"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C15"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C7"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C8"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "C9"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "E16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "E24"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "F16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "F23"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "F24"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "F26"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "G14"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "G15"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "G16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "G23"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "G26"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "H14"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "H15"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "H16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "I16"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "J26"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "K23"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "K24"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "K26"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "L23"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "L26"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "M14"
+        },
+        {
+          "sheet": "测试总结Summary",
+          "cell": "M15"
+        }
+      ],
+      "sample_values": [
+        "问题验证情况",
+        "需求实现情况说明"
+      ],
+      "field_type": "test_conclusion",
+      "confidence": 0.5
+    },
+    "test_result_items": {
+      "cells": [
+        {
+          "sheet": "视觉DMS",
+          "cell": "I7"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J11"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J12"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J13"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J14"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J15"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J16"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J17"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J18"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J7"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "J8"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "M18"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "M9"
+        },
+        {
+          "sheet": "视觉DMS",
+          "cell": "N9"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A35"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A42"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A43"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "A44"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C16"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C17"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C18"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C19"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C23"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C25"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C29"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C30"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C35"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C43"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "C44"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D16"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D17"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D18"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D19"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D23"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D25"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D29"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D30"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D33"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D35"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D43"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "D44"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "F39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "F40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "F41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "H38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "H41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I13"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I16"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I17"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I18"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I19"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I23"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I25"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I29"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I30"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I33"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I35"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I42"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I43"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "I44"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J13"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J14"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J15"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J16"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J17"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J18"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J19"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J23"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J25"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J29"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J30"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J31"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J32"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J33"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J35"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J39"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J42"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J43"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J44"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "J7"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K10"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K11"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K12"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K36"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "K41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M10"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M11"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M12"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M18"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M19"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M29"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M30"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M31"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M32"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M33"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M34"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M38"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M40"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "M41"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N10"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N11"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N12"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N20"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N21"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N22"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N24"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N26"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N27"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N28"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N31"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N32"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N33"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N37"
+        },
+        {
+          "sheet": "视觉OMS",
+          "cell": "N38"
+        }
+      ],
+      "sample_values": [
+        "1.输入模特闭眼6s视频\n2.台架运行DMS疲劳功能",
+        "1.输入模特闭眼视频\n2.台架运行DMS疲劳功能"
+      ],
+      "field_type": "test_result_items",
+      "confidence": 0.5
+    }
+  }
+}

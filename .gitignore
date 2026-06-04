@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (sample files)
+data/history_reports/*.xlsx
+data/output/*.xlsx
+!data/history_reports/.gitkeep
+!data/output/.gitkeep
+
+# Config (auto-generated)
+project_config/template.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+feishu_config.json
+data/output/*.xlsx
+project_config/template.xlsx

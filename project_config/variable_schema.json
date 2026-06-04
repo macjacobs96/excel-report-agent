@@ -1,0 +1,80 @@
+{
+  "test_version": {
+    "label": "版本编号",
+    "type": "string",
+    "required": true,
+    "description": "报告版本编号"
+  },
+  "author_name": {
+    "label": "编制",
+    "type": "string",
+    "required": true,
+    "description": "编制人（零件工程师）"
+  },
+  "reviewer_name": {
+    "label": "审核",
+    "type": "string",
+    "required": true,
+    "description": "审核人"
+  },
+  "approver_name": {
+    "label": "批准",
+    "type": "string",
+    "required": true,
+    "description": "批准人"
+  },
+  "tester_name": {
+    "label": "测试工程师",
+    "type": "string",
+    "required": true,
+    "description": "执行测试的人员"
+  },
+  "test_date": {
+    "label": "日期",
+    "type": "date",
+    "required": true,
+    "description": "报告日期"
+  },
+  "test_start_date": {
+    "label": "测试开始日期",
+    "type": "date",
+    "required": true,
+    "description": "测试开始日期"
+  },
+  "test_end_date": {
+    "label": "测试结束日期",
+    "type": "date",
+    "required": true,
+    "description": "测试结束日期"
+  },
+  "test_software_version": {
+    "label": "软件版本",
+    "type": "string",
+    "required": true,
+    "description": "被测软件版本"
+  },
+  "project_name": {
+    "label": "项目名称",
+    "type": "string",
+    "required": false,
+    "description": "项目/平台名称"
+  },
+  "dut_name": {
+    "label": "被测件名称",
+    "type": "string",
+    "required": false,
+    "description": "被测零部件"
+  },
+  "dut_config": {
+    "label": "零件配置",
+    "type": "string",
+    "required": false,
+    "description": "配置信息"
+  },
+  "test_device": {
+    "label": "测试设备",
+    "type": "string",
+    "required": false,
+    "description": "测试设备/环境"
+  }
+}
